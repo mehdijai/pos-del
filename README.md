@@ -1,3 +1,3 @@
 # POS Delivery
 
-Latest Version `v1.0.7`
+Latest Version `v1.0.8`
